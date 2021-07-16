@@ -10,18 +10,18 @@ categories: First blog!
 # An exploration
 This is my first ever blog! Well, disregarding one that I wrote in year eleven for a history essay.
 
-My friends:
-- Sebastion
-- Anthony
+It was my friends Sebastion and Anthony who gave me this idea and I thank them sincerely.
 
-are the ones who showed me *how this works*.
+You may ask, *why a website*?
 
+Simple:
 1. I love writing
 2. I love coding
 
-Hence, **I am writing a blog**!
+Hence, **here I am**!
 
 ![My favourite animal](https://www.australiangeographic.com.au/wp-content/uploads/2018/06/Pygmy-Possum_Amanda-McLean-Copy-1.jpg)
+
 
 Check out my [Github][github-page] for more info on how I set this up using Github Pages; it was relatively straightforward and will be supplying endless fun.
 
