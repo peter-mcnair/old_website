@@ -9,7 +9,11 @@ categories: First blog!
 # An exploration
 This is my first ever blog! Well, disregarding one that I wrote in year eleven for a history essay.
 
+
+
 It was my friends Sebastion and Anthony who gave me this idea and I thank them sincerely.
+
+
 
 You may ask, *why a website*?
 
