@@ -23,4 +23,6 @@ Hence, **I am writing a blog**!
 
 ![My favourite animal](https://www.australiangeographic.com.au/wp-content/uploads/2018/06/Pygmy-Possum_Amanda-McLean-Copy-1.jpg)
 
-Check out my [Github Page][https://github.com/peter-mcnair] for more info on how I set this up using Github Pages; it was relatively straightforward and will be supplying endless fun.
+Check out my [Github Page][github-page] for more info on how I set this up using Github Pages; it was relatively straightforward and will be supplying endless fun.
+
+[github-page]: https://github.com/peter-mcnair
