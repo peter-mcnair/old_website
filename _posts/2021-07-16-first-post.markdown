@@ -2,6 +2,7 @@
 layout: post
 title:  "Origins"
 date:   2021-07-16 17:28:01 +1000
+permalink: /blog/
 categories: First blog!
 ---
 ### Welcome, stranger! Would you care to look inside my mind?
