@@ -28,7 +28,7 @@ url: "https://peter-mcnair.github.io/" # the base hostname & protocol for your s
 github_username:  peter-mcnair
 
 # Build settings
-theme: academic
+theme: minima
 plugins:
   - jekyll-feed
 
