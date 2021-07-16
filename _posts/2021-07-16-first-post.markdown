@@ -6,7 +6,7 @@ categories: First blog!
 ---
 ### Welcome, stranger! Would you care to look inside my mind?
 
-## An exploration
+# An exploration
 This is my first ever blog! Well, disregarding one that I wrote in year eleven for a history essay.
 
 My friends:
