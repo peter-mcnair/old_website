@@ -18,9 +18,9 @@ are the ones who showed me *how this works*.
 1. I love writing
 2. I love coding
 
-Hence, **I am writing a blog!**.
+Hence, **I am writing a blog**!
 
 ![My favourite animal](https://www.australiangeographic.com.au/wp-content/uploads/2018/06/Pygmy-Possum_Amanda-McLean-Copy-1.jpg)
 
-- [ ] Try this out
+- [x] Try this out
 - [x] Should be interesting!
