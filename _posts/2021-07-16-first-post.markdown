@@ -4,7 +4,7 @@ title:  "Origins"
 date:   2021-07-16 17:28:01 +1000
 categories: First blog!
 ---
-# Welcome, stranger! Would you care to look inside my mind?
+### Welcome, stranger! Would you care to look inside my mind?
 
 ## An exploration
 This is my first ever blog! Well, disregarding one that I wrote in year eleven for a history essay.
