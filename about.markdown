@@ -6,8 +6,8 @@ permalink: /about/
 
 ### About the author
 
-Peter is a second year Electrical Engineer. 
+Peter is an undergraduate Electrical Engineer. 
 
-He enjoys electric guitar, electric cars and long walks on the beach.
+He likes electric guitars, electric cars and long walks on the beach.
 
 ![Profile](Peter McNair.jpg)
