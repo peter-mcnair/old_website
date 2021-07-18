@@ -5,4 +5,4 @@ date:   2021-07-18 +1000
 categories: blog
 ---
 
-!["Crimson Rosella (Platycercus elegans)" by David Cook Wildlife Photography is licensed under CC BY-NC 2.0](https://live.staticflickr.com/3678/9767299835_dbee7e892b_b.jpg)
+!["Crimson Rosella" by seabamirum is licensed under CC BY 2.0](https://live.staticflickr.com/8375/8496346666_da4cae845f_b.jpg)
