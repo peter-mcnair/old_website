@@ -28,7 +28,7 @@ url: "https://peter-mcnair.github.io/" # the base hostname & protocol for your s
 github_username:  peter-mcnair
 
 # Build settings
-remote_theme: daattali/beautiful-jekyll
+remote_theme: poole/lanyon
 plugins:
   - jekyll-feed
 
