@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: default
 title:  "Origins"
 date:   2021-07-16 17:28:01 +1000
 categories: blog
+nav_order: 2
 ---
 ### Welcome, stranger! Would you care to look inside my mind?
 

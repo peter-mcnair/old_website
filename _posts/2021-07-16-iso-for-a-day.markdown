@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: default
 title:  Iso for a day
 date:   2021-07-16 20:04:59 +1000
 categories: blog
+nav_order: 1
 ---
 
 # Preface
